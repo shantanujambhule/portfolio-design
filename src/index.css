@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "PPTelegraf";
+  src: url("./assets/fonts/PPTelegraf-UltraLight.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  background-color: black;
+  color: #fff;
+  font-family: "PPTelegraf", sans-serif;
+}
+
